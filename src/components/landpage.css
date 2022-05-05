@@ -1,0 +1,14 @@
+
+.container{
+    padding: 30px 45px;
+    background-color: white;
+    box-shadow: 10px 15px 20px rgb(99, 96, 96);
+    font-family: 'Roboto', sans-serif, 700;
+    border-radius: 5px
+}
+
+@media (min-width: 580px) {
+    .container{
+        width: 600px ;
+    }
+ }
